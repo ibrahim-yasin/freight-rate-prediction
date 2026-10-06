@@ -1,0 +1,16 @@
+Model,Equipment,MAE
+dummy_baseline,Dry Van,1092.0344262295082
+dummy_baseline,Flatbed,1172.4567647058825
+dummy_baseline,Reefer,1253.3109663865546
+linear_regression,Dry Van,132.03203730392542
+linear_regression,Flatbed,127.13766311696362
+linear_regression,Reefer,166.902936776461
+random_forest,Dry Van,141.05437081401362
+random_forest,Flatbed,159.46832966263992
+random_forest,Reefer,184.09165134389906
+xgboost,Dry Van,147.13274085974498
+xgboost,Flatbed,177.8052474074074
+xgboost,Reefer,188.79702214285714
+catboost,Dry Van,150.7515280803518
+catboost,Flatbed,134.30179561051136
+catboost,Reefer,153.22155806740292

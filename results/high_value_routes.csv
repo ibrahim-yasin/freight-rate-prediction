@@ -1,0 +1,23 @@
+route,count,mean_rate,median_rate,mean_distance
+Boston_TO_Bakersfield,1,19110.3,19110.3,2979.1
+Columbia_TO_Tucson,1,17893.17,17893.17,2023.4
+Milwaukee_TO_Bakersfield,1,17514.11,17514.11,1893.0
+Los Angeles_TO_Richmond,1,15003.55,15003.55,2782.4
+Toledo_TO_Albuquerque,1,14784.38,14784.38,1684.3
+Albany_TO_Albuquerque,1,14425.42,14425.42,2492.6
+Bakersfield_TO_Columbia,1,14403.14,14403.14,2251.9
+Atlanta_TO_Phoenix,1,13894.55,13894.55,2083.1
+Lexington_TO_Lubbock,1,11696.44,11696.44,1187.0
+Corpus Christi_TO_Las Vegas,1,11596.28,11596.28,1383.3
+Shreveport_TO_Baltimore,1,11052.72,11052.72,1348.4
+Lexington_TO_Albany,1,10566.25,10566.25,1040.0
+Los Angeles_TO_Little Rock,1,9939.89,9939.89,1722.4
+Atlanta_TO_Baltimore,1,9522.01,9522.01,940.4
+Albuquerque_TO_Lexington,1,9305.14,9305.14,1643.6
+Providence_TO_Baton Rouge,1,9208.2,9208.2,1590.7
+Reno_TO_Toledo,1,8592.93,8592.93,2117.6
+Baton Rouge_TO_Detroit,1,8425.34,8425.34,1189.2
+Phoenix_TO_Oklahoma City,1,8276.0,8276.0,1261.3
+Milwaukee_TO_Baltimore,1,8236.26,8236.26,985.2
+Little Rock_TO_Buffalo,1,7151.41,7151.41,1038.6
+Corpus Christi_TO_Atlanta,1,7004.3,7004.3,832.1
